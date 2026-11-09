@@ -4,7 +4,7 @@
 [![PyPI](https://img.shields.io/pypi/v/buy-crypto-pressrelease-faq-generator?style=flat-square&color=f7931a&labelColor=111827)](https://pypi.org/project/buy-crypto-pressrelease-faq-generator/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24084285.svg)](https://doi.org/10.5281/zenodo.24084285)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-f7931a?style=flat-square&labelColor=111827)](https://buy-crypto-pressrelease-faq-generator.readthedocs.io)
-[![Hugging Face](https://img.shields.io/badge/dataset-hugging%20face-f7931a?style=flat-square&labelColor=111827)](https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset)
+[![Hugging Face](https://img.shields.io/badge/dataset-hugging%20face-f7931a?style=flat-square&labelColor=111827)](https://huggingface.co/datasets/buycryptopressrelease/buy-crypto-pressrelease-faq-dataset)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=111827)](LICENSE)
 
 The Buy Crypto Press Release FAQ Generator is a question search tool for [BuyCryptoPressRelease.com](https://buycryptopressrelease.com/), the crypto press release distribution platform for Web3 projects. Type any question in plain English, such as "how much does a crypto press release cost" or "can I pay with USDT", and it finds the matching official answer from 50 FAQs with a confidence score from 0 to 100. It can also generate the full FAQ, or one category, as Markdown, JSON, FAQPage schema or ready to paste HTML.
@@ -260,8 +260,8 @@ Buy Crypto Press Release · Crypto Press Release Distribution · Crypto PR Packa
 | GitHub | https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator |
 | NPM | https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator |
 | PyPI | https://pypi.org/project/buy-crypto-pressrelease-faq-generator/ |
-| Hugging Face | https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset |
-| Kaggle | https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset |
+| Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/buy-crypto-pressrelease-faq-dataset |
+| Kaggle | https://www.kaggle.com/datasets/buycryptopr/buy-crypto-pressrelease-faq-dataset |
 | Zenodo | https://doi.org/10.5281/zenodo.24084285 |
 | Docs | https://buy-crypto-pressrelease-faq-generator.readthedocs.io |
 
