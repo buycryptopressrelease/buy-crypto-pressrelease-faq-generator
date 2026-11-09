@@ -2,6 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/buy-crypto-pressrelease-faq-generator?style=flat-square&color=f7931a&labelColor=111827)](https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator)
 [![PyPI](https://img.shields.io/pypi/v/buy-crypto-pressrelease-faq-generator?style=flat-square&color=f7931a&labelColor=111827)](https://pypi.org/project/buy-crypto-pressrelease-faq-generator/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24084285.svg)](https://doi.org/10.5281/zenodo.24084285)
 [![Docs](https://img.shields.io/badge/docs-readthedocs-f7931a?style=flat-square&labelColor=111827)](https://buy-crypto-pressrelease-faq-generator.readthedocs.io)
 [![Hugging Face](https://img.shields.io/badge/dataset-hugging%20face-f7931a?style=flat-square&labelColor=111827)](https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset)
 [![License](https://img.shields.io/badge/license-MIT-8A8A8A?style=flat-square&labelColor=111827)](LICENSE)
@@ -261,7 +262,7 @@ Buy Crypto Press Release · Crypto Press Release Distribution · Crypto PR Packa
 | PyPI | https://pypi.org/project/buy-crypto-pressrelease-faq-generator/ |
 | Hugging Face | https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset |
 | Kaggle | https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset |
-| Zenodo | Add your DOI link after the first release |
+| Zenodo | https://doi.org/10.5281/zenodo.24084285 |
 | Docs | https://buy-crypto-pressrelease-faq-generator.readthedocs.io |
 
 ## Contact
