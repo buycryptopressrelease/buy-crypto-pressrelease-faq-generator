@@ -1,0 +1,51 @@
+case_id,query,expected_id,expected_question,confidence,band
+1,what is buy crypto press release,1,What is BuyCryptoPressRelease.com?,100,Strong match
+2,what services do you offer,2,What services does BuyCryptoPressRelease.com offer?,100,Strong match
+3,how does the distribution process work,3,How does crypto press release distribution work?,92,Strong match
+4,can i publish on just one website,4,Can I buy a press release placement on a single website?,58,Possible match
+5,what is a combo package,5,What is a crypto press release combo package?,100,Strong match
+6,can i mix my own sites in a combo,6,Can I customize a combo package by selecting my own websites?,94,Strong match
+7,single placement vs combo package,7,What is the difference between a single placement and a combo package?,80,Good match
+8,what kind of crypto projects can use this,8,What types of crypto projects can use the platform?,75,Good match
+9,do you publish non crypto business news,9,Does BuyCryptoPressRelease.com distribute announcements outside the crypto industry?,50,Possible match
+10,how many outlets do you have,10,How many media outlets are available through BuyCryptoPressRelease.com?,100,Strong match
+11,how much does a crypto press release cost,11,What is the starting price for crypto press release distribution?,100,Strong match
+12,what is the price of the power pack,12,How much does the Power Pack combo cost?,100,Strong match
+13,which sites are in the power pack,13,What websites are included in the Power Pack?,100,Strong match
+14,india press release package pti tribune,14,What is the Prime Press Network package?,85,Strong match
+15,coinpedia and binance package,15,What is the CoinPedia + Binance Combo?,75,Good match
+16,openpr streetinsider combo,16,What is the OpenPR + StreetInsider + Big News Network Combo?,100,Strong match
+17,are combo prices fixed,17,Are combo packages available at fixed prices?,100,Strong match
+18,can i buy several single placements,18,Can I purchase multiple individual placements?,100,Strong match
+19,which package should i choose,19,How can I find the right crypto press release package?,88,Strong match
+20,can i negotiate the package price,20,Can I submit a counteroffer for a combo package?,67,Good match
+21,do you write the press release,21,Does BuyCryptoPressRelease.com write crypto press releases?,100,Strong match
+22,is writing free or extra cost,22,Is press release writing included in the distribution price?,88,Strong match
+23,can i upload my own draft,23,Can I upload my own press release draft?,100,Strong match
+24,can i just send a brief,24,Can I submit a brief instead of a complete press release?,63,Good match
+25,can i approve the release before it goes out,25,Can I review the press release before distribution?,69,Good match
+26,are revisions included,26,Are revisions included in the press release writing service?,100,Strong match
+27,how does the editorial team prepare my release,27,How does the editorial team prepare a crypto press release?,100,Strong match
+28,what happens after i approve,28,What happens after I approve the press release?,100,Strong match
+29,token launch press release,29,Can I submit a press release for a token launch?,100,Strong match
+30,exchange listing announcement pr,30,Can I distribute an exchange listing announcement?,81,Strong match
+31,are the articles indexed by google,31,Are press releases published on Google indexed websites?,75,Good match
+32,are the backlinks dofollow,32,Does BuyCryptoPressRelease.com provide dofollow backlinks?,100,Strong match
+33,will i get live links,33,Will I receive live publication URLs?,88,Strong match
+34,how long until my release goes live,34,How long does it take for a crypto press release to go live?,60,Possible match
+35,will all sites in the combo publish the same day,35,Can all publications in a combo package publish on the same day?,83,Strong match
+36,can you guarantee a publish date,36,Does the platform guarantee a specific publication date?,67,Good match
+37,can i share my live urls with my community,37,Can I use the live publication URLs after distribution?,88,Strong match
+38,can i see samples before i order,38,Can I see sample press release publications before ordering?,75,Good match
+39,do you offer global media coverage,39,Does the platform offer international media coverage?,94,Strong match
+40,is publication guaranteed once i order,40,Are publication placements guaranteed once I place an order?,100,Strong match
+41,what payment methods do you accept,41,What payment methods does BuyCryptoPressRelease.com accept?,100,Strong match
+42,can i pay with bitcoin,42,Can I pay for a press release using Bitcoin?,100,Strong match
+43,do you accept usdt trc20,43,Can I pay using USDT?,67,Good match
+44,can i pay in eth or sol,44,Can I pay using Ethereum or Solana?,83,Strong match
+45,can i pay by card,45,Can I pay using a credit or debit card?,100,Strong match
+46,crypto presale press release,46,Does BuyCryptoPressRelease.com offer crypto presale PR distribution?,100,Strong match
+47,ico ido announcement,47,Can I distribute ICO and IDO announcements?,100,Strong match
+48,nft mint press release,48,Does BuyCryptoPressRelease.com offer NFT press release distribution?,92,Strong match
+49,defi protocol announcement,49,Can DeFi projects distribute press releases through the platform?,67,Good match
+50,cloud mining press release,50,Does BuyCryptoPressRelease.com offer cloud mining and Web3 press release distribution?,100,Strong match
