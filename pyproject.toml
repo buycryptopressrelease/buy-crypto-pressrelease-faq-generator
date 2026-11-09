@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "buy-crypto-pressrelease-faq-generator"
-version = "1.0.0"
+version = "1.0.1"
 description = "Buy Crypto Press Release FAQ Generator: Search 50 official BuyCryptoPressRelease.com FAQs in plain English. Get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage schema or HTML."
 readme = "README.md"
 requires-python = ">=3.8"
@@ -25,7 +25,7 @@ Homepage = "https://buycryptopressrelease.com/"
 Repository = "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator"
 Documentation = "https://buy-crypto-pressrelease-faq-generator.readthedocs.io"
 NPM = "https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator"
-"Hugging Face" = "https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset"
+"Hugging Face" = "https://huggingface.co/datasets/buycryptopressrelease/buy-crypto-pressrelease-faq-dataset"
 
 [project.scripts]
 bcpr-faq = "buy_crypto_pr_faq:main"
