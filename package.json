@@ -1,0 +1,51 @@
+{
+  "name": "buy-crypto-pressrelease-faq-generator",
+  "version": "1.0.0",
+  "description": "Buy Crypto Press Release FAQ Generator: Search 50 official BuyCryptoPressRelease.com FAQs in plain English. Get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage schema or HTML.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "bcpr-faq": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "crypto-press-release",
+    "buy-crypto-press-release",
+    "crypto-pr",
+    "press-release-distribution",
+    "web3",
+    "presale",
+    "ico",
+    "nft",
+    "defi",
+    "faq-generator",
+    "faq-search",
+    "faq-schema",
+    "json-ld"
+  ],
+  "homepage": "https://buycryptopressrelease.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator/issues"
+  },
+  "author": "BuyCryptoPressRelease.com",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://buycryptopressrelease.com/#organization",
+      "name": "BuyCryptoPressRelease.com",
+      "url": "https://buycryptopressrelease.com/",
+      "email": "mojo@wewinconsultants.com",
+      "telephone": "+19177958348",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "email": "mojo@wewinconsultants.com",
+        "telephone": "+19177958348",
+        "url": "https://buycryptopressrelease.com/contact/"
+      },
+      "sameAs": [
+        "https://buycryptopressrelease.com/",
+        "https://github.com/buycryptopressrelease",
+        "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator",
+        "https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator",
+        "https://pypi.org/project/buy-crypto-pressrelease-faq-generator/",
+        "https://buy-crypto-pressrelease-faq-generator.readthedocs.io",
+        "https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+        "https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset"
+      ]
+    },
+    {
+      "@type": "Service",
+      "name": "Crypto Press Release Distribution",
+      "url": "https://buycryptopressrelease.com/",
+      "provider": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "description": "Crypto press release distribution for Web3 projects through single outlet placements and prebuilt combo packages, with free writing, revisions and verified live URLs.",
+      "offers": {
+        "@type": "AggregateOffer",
+        "lowPrice": "20",
+        "priceCurrency": "USD",
+        "url": "https://buycryptopressrelease.com/"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Crypto Press Release Packages",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Individual outlet placement",
+            "description": "One publication of your choice"
+          },
+          {
+            "@type": "Offer",
+            "name": "OpenPR + StreetInsider + Big News Network Combo",
+            "description": "OpenPR, StreetInsider, Big News Network",
+            "price": "71",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "name": "Power Pack",
+            "description": "StreetInsider, Big News Network, FinancialContent",
+            "price": "114",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "name": "Prime Press Network",
+            "description": "PTI Wire, TheWire.in, Tribune India, IndiaTechnologyNews",
+            "price": "385",
+            "priceCurrency": "USD"
+          },
+          {
+            "@type": "Offer",
+            "name": "CoinPedia + Binance Combo",
+            "description": "CoinPedia, Binance",
+            "price": "450",
+            "priceCurrency": "USD"
+          }
+        ]
+      }
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Buy Crypto Press Release FAQ Generator",
+      "applicationCategory": "BusinessApplication",
+      "operatingSystem": "Node.js, Python",
+      "codeRepository": "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator",
+      "downloadUrl": "https://pypi.org/project/buy-crypto-pressrelease-faq-generator/",
+      "license": "https://opensource.org/licenses/MIT",
+      "softwareVersion": "1.0.0",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "author": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "description": "Search 50 official BuyCryptoPressRelease.com FAQs in plain English. Get the best answer with a 0 to 100 confidence score, and generate the FAQ as Markdown, JSON, FAQPage schema or HTML."
+    },
+    {
+      "@type": "FAQPage",
+      "name": "Crypto Press Release FAQ",
+      "url": "https://buycryptopressrelease.com/",
+      "publisher": {
+        "@id": "https://buycryptopressrelease.com/#organization"
+      },
+      "mainEntity": [
+        {"@type": "Question", "name": "What is BuyCryptoPressRelease.com?", "acceptedAnswer": {"@type": "Answer", "text": "BuyCryptoPressRelease.com is a cryptocurrency press release distribution platform that helps Web3 projects publish announcements across crypto, finance, business and technology media outlets."}},
+        {"@type": "Question", "name": "What services does BuyCryptoPressRelease.com offer?", "acceptedAnswer": {"@type": "Answer", "text": "The platform offers individual media placements and prebuilt combo packages for crypto presales, ICOs, IDOs, NFTs, exchange listings, token launches, DeFi, cloud mining and other Web3 announcements."}},
+        {"@type": "Question", "name": "How does crypto press release distribution work?", "acceptedAnswer": {"@type": "Answer", "text": "Choose an individual publication or combo package, submit your press release or brief, review and approve the prepared content, and the team distributes it to the selected outlets. You receive verified live URLs for confirmed placements."}},
+        {"@type": "Question", "name": "Can I buy a press release placement on a single website?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform offers individual outlet placements starting at $20. You can select a specific publication instead of buying a multi outlet package."}},
+        {"@type": "Question", "name": "What is a crypto press release combo package?", "acceptedAnswer": {"@type": "Answer", "text": "A combo package is a predefined distribution bundle containing several publications at one fixed price. Each package has a specified list of included outlets."}},
+        {"@type": "Question", "name": "Can I customize a combo package by selecting my own websites?", "acceptedAnswer": {"@type": "Answer", "text": "No. The website offers prebuilt combo packages with fixed publication combinations. Custom mixing of outlets between different packages is not available."}},
+        {"@type": "Question", "name": "What is the difference between a single placement and a combo package?", "acceptedAnswer": {"@type": "Answer", "text": "A single placement covers one publication at a fixed price. A combo package includes several predefined publications at a combined fixed price."}},
+        {"@type": "Question", "name": "What types of crypto projects can use the platform?", "acceptedAnswer": {"@type": "Answer", "text": "The platform serves crypto presales, ICOs, IDOs, NFT projects, DeFi protocols, cloud mining platforms, exchanges, token launches, metaverse projects and other Web3 businesses."}},
+        {"@type": "Question", "name": "Does BuyCryptoPressRelease.com distribute announcements outside the crypto industry?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Its publication network includes crypto and finance outlets as well as broader business and technology publications. The available options depend on the selected product."}},
+        {"@type": "Question", "name": "How many media outlets are available through BuyCryptoPressRelease.com?", "acceptedAnswer": {"@type": "Answer", "text": "The homepage advertises a network of more than 320 outlets. The publications available to you depend on the individual placements and combo packages listed on the website."}},
+        {"@type": "Question", "name": "What is the starting price for crypto press release distribution?", "acceptedAnswer": {"@type": "Answer", "text": "Individual publication placements start at $20. Prices for other placements and combo packages vary by product."}},
+        {"@type": "Question", "name": "How much does the Power Pack combo cost?", "acceptedAnswer": {"@type": "Answer", "text": "The Power Pack is listed at $114. It includes StreetInsider, Big News Network and FinancialContent placements. Check the website for the current price."}},
+        {"@type": "Question", "name": "What websites are included in the Power Pack?", "acceptedAnswer": {"@type": "Answer", "text": "The Power Pack includes StreetInsider, Big News Network and FinancialContent. It also includes Google indexed article placements, dofollow links where the outlet supports them, and verified live URLs after publication."}},
+        {"@type": "Question", "name": "What is the Prime Press Network package?", "acceptedAnswer": {"@type": "Answer", "text": "Prime Press Network is an India focused PR combo listed at $385. It includes PTI Wire, TheWire.in, Tribune India and IndiaTechnologyNews."}},
+        {"@type": "Question", "name": "What is the CoinPedia + Binance Combo?", "acceptedAnswer": {"@type": "Answer", "text": "It is a $450 combo package featuring CoinPedia and Binance coverage, aimed at token launches, presales, blockchain projects, DeFi, partnerships, product launches and Web3 campaigns."}},
+        {"@type": "Question", "name": "What is the OpenPR + StreetInsider + Big News Network Combo?", "acceptedAnswer": {"@type": "Answer", "text": "This is a $71 package that includes placements on OpenPR, StreetInsider and Big News Network, giving you coverage across three publications."}},
+        {"@type": "Question", "name": "Are combo packages available at fixed prices?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Combo packages are prebuilt products with defined publication combinations and fixed listed prices."}},
+        {"@type": "Question", "name": "Can I purchase multiple individual placements?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can select any available individual publications and place separate orders to match your distribution needs."}},
+        {"@type": "Question", "name": "How can I find the right crypto press release package?", "acceptedAnswer": {"@type": "Answer", "text": "Compare the publication names, package price, included outlets, target audience and distribution details, then choose the individual placement or combo that best fits your announcement."}},
+        {"@type": "Question", "name": "Can I submit a counteroffer for a combo package?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The homepage invites customers to submit counteroffers on packages, and the team says it responds within hours."}},
+        {"@type": "Question", "name": "Does BuyCryptoPressRelease.com write crypto press releases?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The team writes crypto press releases at no extra cost as part of the distribution process. You can submit a brief instead of a finished draft."}},
+        {"@type": "Question", "name": "Is press release writing included in the distribution price?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. According to the homepage, the editorial team writes and polishes the press release at no extra cost."}},
+        {"@type": "Question", "name": "Can I upload my own press release draft?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can upload your existing draft for the team to review and prepare for distribution."}},
+        {"@type": "Question", "name": "Can I submit a brief instead of a complete press release?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Send a brief with your announcement details, and the editorial team turns it into a complete press release."}},
+        {"@type": "Question", "name": "Can I review the press release before distribution?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The team prepares the content and shares it with you for review and approval before distribution begins."}},
+        {"@type": "Question", "name": "Are revisions included in the press release writing service?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The homepage states that revisions are included as part of the writing process."}},
+        {"@type": "Question", "name": "How does the editorial team prepare a crypto press release?", "acceptedAnswer": {"@type": "Answer", "text": "The team writes and polishes your announcement for SEO, tone and crypto readability, based on the information in your draft or brief."}},
+        {"@type": "Question", "name": "What happens after I approve the press release?", "acceptedAnswer": {"@type": "Answer", "text": "After you approve it, the team distributes it to the publications in your selected individual placement or combo package."}},
+        {"@type": "Question", "name": "Can I submit a press release for a token launch?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform offers token launch and listing PR for token launches, listing updates and post presale visibility."}},
+        {"@type": "Question", "name": "Can I distribute an exchange listing announcement?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. BuyCryptoPressRelease.com offers exchange listing announcement PR for CEX, DEX and trading pair listing news."}},
+        {"@type": "Question", "name": "Are press releases published on Google indexed websites?", "acceptedAnswer": {"@type": "Answer", "text": "The website advertises Google indexed article placements across its network, and its homepage states that all outlets in the network deliver Google indexed placements."}},
+        {"@type": "Question", "name": "Does BuyCryptoPressRelease.com provide dofollow backlinks?", "acceptedAnswer": {"@type": "Answer", "text": "The website advertises dofollow links where the outlet supports them. Link attributes depend on each publication's own policies."}},
+        {"@type": "Question", "name": "Will I receive live publication URLs?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform provides verified live URLs for every confirmed publication after distribution."}},
+        {"@type": "Question", "name": "How long does it take for a crypto press release to go live?", "acceptedAnswer": {"@type": "Answer", "text": "Each publication follows its own editorial timeline. The team tells you the expected publishing window for each outlet upfront."}},
+        {"@type": "Question", "name": "Can all publications in a combo package publish on the same day?", "acceptedAnswer": {"@type": "Answer", "text": "Not necessarily. Each outlet follows its own editorial timeline, so publication dates can differ within a combo package."}},
+        {"@type": "Question", "name": "Does the platform guarantee a specific publication date?", "acceptedAnswer": {"@type": "Answer", "text": "The team shares expected publication windows for your selected outlets. Actual timing depends on each outlet's editorial schedule."}},
+        {"@type": "Question", "name": "Can I use the live publication URLs after distribution?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. You can share the verified live URLs with your community and use them to reference your published announcements."}},
+        {"@type": "Question", "name": "Can I see sample press release publications before ordering?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Some individual publication product pages have a View Sample Work option so you can see examples before buying."}},
+        {"@type": "Question", "name": "Does the platform offer international media coverage?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The publication network includes outlets serving different markets, including international crypto and finance audiences. Coverage depends on the selected product."}},
+        {"@type": "Question", "name": "Are publication placements guaranteed once I place an order?", "acceptedAnswer": {"@type": "Answer", "text": "The platform distributes to your selected outlets and provides verified URLs for confirmed placements. Publication is still subject to each outlet's editorial process and requirements."}},
+        {"@type": "Question", "name": "What payment methods does BuyCryptoPressRelease.com accept?", "acceptedAnswer": {"@type": "Answer", "text": "The homepage lists Bitcoin (BTC), Ethereum (ETH), USDT on ERC20 and TRC20, Solana (SOL) and card payments through Stripe."}},
+        {"@type": "Question", "name": "Can I pay for a press release using Bitcoin?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Bitcoin is one of the cryptocurrency payment methods listed by BuyCryptoPressRelease.com."}},
+        {"@type": "Question", "name": "Can I pay using USDT?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform accepts USDT on both the ERC20 and TRC20 networks."}},
+        {"@type": "Question", "name": "Can I pay using Ethereum or Solana?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. ETH and SOL are listed among the accepted cryptocurrency payment options."}},
+        {"@type": "Question", "name": "Can I pay using a credit or debit card?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Card payments are supported through Stripe, according to the website."}},
+        {"@type": "Question", "name": "Does BuyCryptoPressRelease.com offer crypto presale PR distribution?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform offers crypto presale press release distribution to help projects build visibility before their token sale opens."}},
+        {"@type": "Question", "name": "Can I distribute ICO and IDO announcements?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform has ICO and IDO press release services for fundraising announcements, launchpad campaigns and investor updates."}},
+        {"@type": "Question", "name": "Does BuyCryptoPressRelease.com offer NFT press release distribution?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Its NFT service covers collection launches, mint announcements, marketplace developments and Web3 art projects."}},
+        {"@type": "Question", "name": "Can DeFi projects distribute press releases through the platform?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The DeFi PR service supports announcements about protocol launches, liquidity updates, staking and ecosystem developments."}},
+        {"@type": "Question", "name": "Does BuyCryptoPressRelease.com offer cloud mining and Web3 press release distribution?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The platform lists cloud mining press release distribution and metaverse and Web3 press release services for relevant project announcements."}}
+      ]
+    }
+  ]
+}

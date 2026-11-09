@@ -1,0 +1,56 @@
+{
+  "title": "Buy Crypto Press Release FAQ Generator: Question Search and FAQ Schema Generation for Crypto Press Release Distribution",
+  "upload_type": "software",
+  "description": "The Buy Crypto Press Release FAQ Generator is a question search tool for BuyCryptoPressRelease.com, a crypto press release distribution platform for Web3 projects. A user types a question in plain English and the tool returns the matching official answer from 50 FAQs with a match confidence score from 0 to 100. It also generates the FAQ, in full or by category, as Markdown, JSON, FAQPage schema or HTML. Covers single outlet placements from $20, prebuilt combo packages, free writing and revisions, Google indexed placements, dofollow links where supported, crypto and card payments, and presale, ICO, IDO, NFT, DeFi, token launch, exchange listing and cloud mining PR. Includes identical TypeScript (NPM) and Python (PyPI) implementations, a 50 entry FAQ dataset, a package dataset and a 50 question search benchmark.",
+  "creators": [
+    {
+      "name": "BuyCryptoPressRelease.com"
+    }
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "Buy Crypto Press Release",
+    "crypto press release distribution",
+    "crypto PR",
+    "Web3 press release",
+    "crypto presale PR",
+    "ICO IDO PR",
+    "NFT press release",
+    "DeFi PR",
+    "FAQ generator",
+    "FAQPage schema"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://buycryptopressrelease.com/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/buy-crypto-pressrelease-faq-generator/",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}
