@@ -8,7 +8,7 @@
     }
   ],
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "Buy Crypto Press Release",
     "crypto press release distribution",
@@ -43,12 +43,12 @@
       "scheme": "url"
     },
     {
-      "identifier": "https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+      "identifier": "https://huggingface.co/datasets/buycryptopressrelease/buy-crypto-pressrelease-faq-dataset",
       "relation": "isSupplementedBy",
       "scheme": "url"
     },
     {
-      "identifier": "https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+      "identifier": "https://www.kaggle.com/datasets/buycryptopr/buy-crypto-pressrelease-faq-dataset",
       "relation": "isSupplementedBy",
       "scheme": "url"
     }
