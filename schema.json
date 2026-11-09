@@ -23,7 +23,8 @@
         "https://pypi.org/project/buy-crypto-pressrelease-faq-generator/",
         "https://buy-crypto-pressrelease-faq-generator.readthedocs.io",
         "https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
-        "https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset"
+        "https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+        "https://doi.org/10.5281/zenodo.24084285"
       ]
     },
     {
