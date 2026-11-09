@@ -22,8 +22,8 @@
         "https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator",
         "https://pypi.org/project/buy-crypto-pressrelease-faq-generator/",
         "https://buy-crypto-pressrelease-faq-generator.readthedocs.io",
-        "https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
-        "https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset",
+        "https://huggingface.co/datasets/buycryptopressrelease/buy-crypto-pressrelease-faq-dataset",
+        "https://www.kaggle.com/datasets/buycryptopr/buy-crypto-pressrelease-faq-dataset",
         "https://doi.org/10.5281/zenodo.24084285"
       ]
     },
@@ -89,7 +89,7 @@
       "codeRepository": "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator",
       "downloadUrl": "https://pypi.org/project/buy-crypto-pressrelease-faq-generator/",
       "license": "https://opensource.org/licenses/MIT",
-      "softwareVersion": "1.0.0",
+      "softwareVersion": "1.0.1",
       "offers": {
         "@type": "Offer",
         "price": "0",
