@@ -298,8 +298,8 @@ Yes. The platform lists cloud mining press release distribution and metaverse an
 | GitHub | https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator |
 | NPM | https://www.npmjs.com/package/buy-crypto-pressrelease-faq-generator |
 | PyPI | https://pypi.org/project/buy-crypto-pressrelease-faq-generator/ |
-| Hugging Face | https://huggingface.co/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset |
-| Kaggle | https://www.kaggle.com/datasets/bhmarketer/buy-crypto-pressrelease-faq-dataset |
+| Hugging Face | https://huggingface.co/datasets/buycryptopressrelease/buy-crypto-pressrelease-faq-dataset |
+| Kaggle | https://www.kaggle.com/datasets/buycryptopr/buy-crypto-pressrelease-faq-dataset |
 | Zenodo | https://doi.org/10.5281/zenodo.24084285 |
 | Docs | https://buy-crypto-pressrelease-faq-generator.readthedocs.io |
 | Email | mojo@wewinconsultants.com |
