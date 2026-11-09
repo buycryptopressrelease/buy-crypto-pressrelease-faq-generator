@@ -15,7 +15,7 @@
  * Built by BuyCryptoPressRelease.com (https://buycryptopressrelease.com/). MIT License.
  */
 
-export const VERSION = "1.0.0";
+export const VERSION = "1.0.1";
 export const WEBSITE = "https://buycryptopressrelease.com/";
 export const SERVICE_PAGE = "https://buycryptopressrelease.com/";
 export const REPO = "https://github.com/buycryptopressrelease/buy-crypto-pressrelease-faq-generator";
